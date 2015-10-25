@@ -185,6 +185,7 @@ Format:
 | Marc Sardon | [scruti](https://github.com/scruti) | Spanish computer science student. Exp with C++(no GUI) and Java programming. Currently learning Ruby|
 | Marco Lau | [xamroc](https://github.com/xamroc) | College graduate, unemployed but hoping to continue improving my development skills. Main used Java in college. I want to learn more Python and Ruby. ||
 | Marcus Newman | [MarcusNewman](https://github.com/MarcusNewman) | C# Junior software developer. ||
+| Mario S | [Merovingian10](https://github.com/Merovingian10) ||
 | Mark Poko    | [pokom](https://github.com/Pokom) |Recent graduate, working as a software developer on the East Coast. Primary languages outside of work is C++/Python, looking to continue developing in these languages because I will not use them at work|
 | Mark Simpson | [mark-up](https://github.com/mark-up) ||
 | Marsel Zaripov | [TvoroG](https://github.com/TvoroG) ||
